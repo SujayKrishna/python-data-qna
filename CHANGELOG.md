@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/googleapis/python-data-qna/compare/v0.1.0...v0.1.1) (2020-12-04)
+
+
+### Documentation
+
+* add allowlist warning to README ([#6](https://www.github.com/googleapis/python-data-qna/issues/6)) ([7ef1b9c](https://www.github.com/googleapis/python-data-qna/commit/7ef1b9c5a1a873328dd6e197d3d5b06fb3f11fb7))
+
 ## 0.1.0 (2020-12-02)
 
 
